@@ -51,7 +51,7 @@ This repository contains various Seaborn plots implemented in individual Python 
 ## Examples
 
 ### Line Plot
-![Line Plot](path_to_your_image/line_plot.png)
+![Line Plot](C:/Users/KRISHNA/OneDrive/Documents/Seaborn/Line_Plot-1.png)
 
 ### Bar Plot
 ![Bar Plot](path_to_your_image/bar_plot.png)
