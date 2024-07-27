@@ -48,16 +48,6 @@ This repository contains various Seaborn plots implemented in individual Python 
 - Matplotlib
 - Pandas (if needed for some plots)
 
-## Examples
-
-### Line Plot
-![Line Plot](C:/Users/KRISHNA/OneDrive/Documents/Seaborn/Line_Plot-1.png)
-
-### Bar Plot
-![Bar Plot](path_to_your_image/bar_plot.png)
-
-...
-
 ## Contributing
 
 Feel free to submit issues or pull requests if you have any suggestions or improvements.
